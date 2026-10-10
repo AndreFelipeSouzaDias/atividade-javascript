@@ -1,7 +1,0 @@
-
-No Frontend, o JavaScript serve para fazer a página reagir ao que a pessoa faz. O HTML monta a estrutura e o CSS cuida da aparência; o JavaScript entra para dar ação às coisas.
-
-Com ele, dá para responder a cliques, conferir se um formulário foi preenchido direito, trocar textos ou imagens e atualizar partes da página sem precisar recarregar tudo.
- É o que transforma uma página parada em algo mais interativo e útil para quem está usando.
-
-Resumindo: no Frontend, o JavaScript controla o comportamento da página direto no navegador.
